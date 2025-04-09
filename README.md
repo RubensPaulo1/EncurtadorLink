@@ -1,5 +1,6 @@
 
-![Captura de tela 2025-04-09 123351](https://github.com/user-attachments/assets/8f67b29b-9c15-4d3f-b4c6-8881ad4f7d6f)
+![Captura de tela 2025-04-09 12335100](https://github.com/user-attachments/assets/139425a8-3a64-4521-b168-b586b1cc09e9)
+
 
 # TinyLink - Encurtador de URLs
 
