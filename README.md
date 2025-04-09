@@ -50,7 +50,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-7. Acesse http://localhost:8000 no seu navegador
+7. Acesse no seu navegador
 
 ## Como usar
 
