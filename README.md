@@ -1,3 +1,6 @@
+
+![Captura de tela 2025-04-09 123351](https://github.com/user-attachments/assets/8f67b29b-9c15-4d3f-b4c6-8881ad4f7d6f)
+
 # TinyLink - Encurtador de URLs
 
 Um projeto simples de encurtador de URLs desenvolvido com Django.
